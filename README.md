@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hi+there%2C+I'm+Aniruddha+Dutta+%F0%9F%91%8B;AI+%7C+ML+%7C+Full+Stack+%7C+Cybersecurity;Building+Tomorrow's+Tech%2C+Today+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Aniruddha%20Dutta&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=MCA%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Full%20Stack%20Developer&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aniruddha%20Dutta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MCA%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aniruddha1110&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Aniruddha1110?label=Followers&amp;style=for-the-badge&amp;color=0e75b6&amp;labelColor=1a1a2e" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-00D9FF?style=for-the-badge&amp;labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge&amp;labelColor=1a1a2e" />
+  <img src="https://komarev.com/ghpvc/?username=Aniruddha1110&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Aniruddha1110?label=Followers&style=for-the-badge&color=0e75b6&labelColor=1a1a2e" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
 </div>
@@ -51,7 +51,7 @@ me.say_hi()
 ```
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniruddha1110&amp;bg_color=0d1117&amp;color=00d9ff&amp;line=0077ff&amp;point=ffffff&amp;area=true&amp;hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniruddha1110&bg_color=0d1117&color=00d9ff&line=0077ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -148,13 +148,13 @@ me.say_hi()
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniruddha1110&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniruddha1110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha1110&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=10&amp;count_private=true" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha1110&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Aniruddha1110&amp;theme=tokyonight&amp;hide_border=true" width="70%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Aniruddha1110&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -162,7 +162,7 @@ me.say_hi()
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aniruddha1110&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=7" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aniruddha1110&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -224,7 +224,7 @@ Building AI systems that actually do something meaningful
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 **Star my repos if you find them useful! Let's build the future together.**
 
