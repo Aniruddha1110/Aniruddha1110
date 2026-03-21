@@ -31,7 +31,7 @@ class AniruddhaDutta:
         self.name        = "Aniruddha Dutta"
         self.degree      = "MCA Student"
         self.username    = "Aniruddha1110"
-        self.location    = "India 🇮🇳"
+        self.location    = "India"
 
         self.interests   = [
             "Artificial Intelligence & Machine Learning",
@@ -182,7 +182,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aniruddha1110&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aniruddha1110&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies"/>
 </div>
 
 ---
