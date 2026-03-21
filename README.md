@@ -2,13 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hi+there%2C+I'm+Aniruddha+Dutta+%F0%9F%91%8B;AI+%7C+ML+%7C+Full+Stack+%7C+Cybersecurity;Building+Tomorrow's+Tech%2C+Today+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p align="center">
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aniruddha1110&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Aniruddha1110?label=Followers&style=for-the-badge&color=0e75b6&labelColor=1a1a2e" alt="Followers"/>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge&labelColor=1a1a2e" />
-</p>
-
 </div>
 
 ---
