@@ -4,15 +4,15 @@
 <!--                        ANIMATED HEADER                           -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hi+there%2C+I'm+Aniruddha+Dutta+%F0%9F%91%8B;AI+%7C+ML+%7C+Full+Stack+%7C+Cybersecurity;Building+Tomorrow's+Tech%2C+Today+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&amp;color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&amp;height=120&lines=Hi+there%2C+I'm+Aniruddha+Dutta+%F0%9F%91%8B;AI+%7C+ML+%7C+Full+Stack+%7C+Cybersecurity;Building+Tomorrow's+Tech%2C+Today+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aniruddha%20Dutta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MCA%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Aniruddha%20Dutta&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=MCA%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Full%20Stack%20Developer&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aniruddha1110&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Aniruddha1110?label=Followers&style=for-the-badge&color=0e75b6&labelColor=1a1a2e" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://komarev.com/ghpvc/?username=Aniruddha1110&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Aniruddha1110?label=Followers&amp;style=for-the-badge&amp;color=0e75b6&amp;labelColor=1a1a2e" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-00D9FF?style=for-the-badge&amp;labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge&amp;labelColor=1a1a2e" />
 </p>
 
 </div>
@@ -59,7 +59,7 @@ me.say_hi()
 ```
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniruddha1110&bg_color=0d1117&color=00d9ff&line=0077ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniruddha1110&amp;bg_color=0d1117&amp;color=00d9ff&amp;line=0077ff&amp;point=ffffff&amp;area=true&amp;hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -68,7 +68,7 @@ me.say_hi()
 <!--                       TECH STACK BADGES                          -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="28"> Tech Stack
 
 <div align="center">
 
@@ -164,13 +164,13 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniruddha1110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniruddha1110&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha1110&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha1110&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=10&amp;count_private=true" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniruddha1110&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniruddha1110&amp;theme=tokyonight&amp;hide_border=true" width="70%" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -182,7 +182,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aniruddha1110&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aniruddha1110&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=7" width="100%" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -201,10 +201,10 @@ me.say_hi()
 |---|---------|--------|------|------|
 | 01 | 💪 **Fit Verse** — Fitness Application | Full Stack | Solo | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/FitItUp.git) |
 | 02 | 🛍️ **Aureva** — Ecommerce Site | Full Stack | Solo | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/e-commerce.git) |
-| 03 | 🎬 **Echo Flicks** — Movie Recommendation System | AI / ML | Duo · [![Teammate](https://img.shields.io/badge/Anuskaa-100000?style=flat-square&logo=github)](https://github.com/Anuskaa2002) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/Movie_Recommendation_System.git) |
-| 04 | 📺 **Stream Lytics** — Netflix Dataset Analysis | Data / Power BI | Team · [![Teammate](https://img.shields.io/badge/Arpan-100000?style=flat-square&logo=github)](https://github.com/LegitScarf) [![Teammate](https://img.shields.io/badge/Namrata-100000?style=flat-square&logo=github)](https://github.com/namrata2476)[![Teammate](https://img.shields.io/badge/Piyush-100000?style=flat-square&logo=github)](https://github.com/Piyush-patra)[![Teammate](https://img.shields.io/badge/Subhadip-100000?style=flat-square&logo=github)](https://github.com/SUBHA-coder) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/Streamlytics.git) |
-| 05 | 📉 **Custychur** — Customer Churn Analysis | Data / Power BI | Team · [![Teammate](https://img.shields.io/badge/Arpan-100000?style=flat-square&logo=github)](https://github.com/LegitScarf) [![Teammate](https://img.shields.io/badge/Namrata-100000?style=flat-square&logo=github)](https://github.com/namrata2476) [![Teammate](https://img.shields.io/badge/Piyush-100000?style=flat-square&logo=github)](https://github.com/Piyush-patra)[![Teammate](https://img.shields.io/badge/Subhadip-100000?style=flat-square&logo=github)](https://github.com/SUBHA-coder)| [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/CustyChurn.git) |
-| 06 | 🏢 **NexusHR** — Enterprise Management System | Full Stack | Duo · [![Teammate](https://img.shields.io/badge/Anuskaa-100000?style=flat-square&logo=github)](https://github.com/Anuskaa2002) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/NexusHR.git) |
+| 03 | 🎬 **Echo Flicks** — Movie Recommendation System | AI / ML | Duo · [![Anuskaa](https://img.shields.io/badge/Anuskaa-100000?style=flat-square&logo=github)](https://github.com/Anuskaa2002) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/Movie_Recommendation_System.git) |
+| 04 | 📺 **Stream Lytics** — Netflix Dataset Analysis | Data / Power BI | Team · [![Arpan](https://img.shields.io/badge/Arpan-100000?style=flat-square&logo=github)](https://github.com/LegitScarf) [![Namrata](https://img.shields.io/badge/Namrata-100000?style=flat-square&logo=github)](https://github.com/namrata2476) [![Piyush](https://img.shields.io/badge/Piyush-100000?style=flat-square&logo=github)](https://github.com/Piyush-patra) [![Subhadip](https://img.shields.io/badge/Subhadip-100000?style=flat-square&logo=github)](https://github.com/SUBHA-coder) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/Streamlytics.git) |
+| 05 | 📉 **Custychur** — Customer Churn Analysis | Data / Power BI | Team · [![Arpan](https://img.shields.io/badge/Arpan-100000?style=flat-square&logo=github)](https://github.com/LegitScarf) [![Namrata](https://img.shields.io/badge/Namrata-100000?style=flat-square&logo=github)](https://github.com/namrata2476) [![Piyush](https://img.shields.io/badge/Piyush-100000?style=flat-square&logo=github)](https://github.com/Piyush-patra) [![Subhadip](https://img.shields.io/badge/Subhadip-100000?style=flat-square&logo=github)](https://github.com/SUBHA-coder) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/CustyChurn.git) |
+| 06 | 🏢 **NexusHR** — Enterprise Management System | Full Stack | Duo · [![Anuskaa](https://img.shields.io/badge/Anuskaa-100000?style=flat-square&logo=github)](https://github.com/Anuskaa2002) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/NexusHR.git) |
 
 </div>
 
@@ -215,6 +215,37 @@ me.say_hi()
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 My Contributions
+
+<!--
+  SNAKE SETUP (one-time):
+  1. Create .github/workflows/snake.yml in this repo with:
+
+     name: Generate Snake Animation
+     on:
+       schedule:
+         - cron: "0 */12 * * *"
+       workflow_dispatch:
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk/svg-only@v3
+             with:
+               github_user_name: Aniruddha1110
+               outputs: |
+                 dist/github-snake.svg
+                 dist/github-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v3
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  2. Go to Actions tab → "Generate Snake Animation" → Run workflow
+  3. Snake will appear here once the output branch is created.
+  Delete this comment after setup is done.
+-->
 
 <div align="center">
   <picture>
@@ -235,7 +266,7 @@ me.say_hi()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aniruddha1110-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aniruddha1110)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aniruddhadutta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddhadutta)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishaan_srt10)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishaananiruddha10@gmail.com)
 
@@ -266,7 +297,7 @@ me.say_hi()
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
 
 **⭐ Star my repos if you find them useful! Let's build the future together. ⭐**
 
@@ -276,12 +307,12 @@ me.say_hi()
      SETUP NOTES (delete this section after setup):
 
      1. REPLACE REPO PLACEHOLDERS in the Projects table:
-        YOUR_FITVERSE_REPO_URL       → https://github.com/Aniruddha1110/your-repo-name
-        YOUR_AUREVA_REPO_URL         → https://github.com/Aniruddha1110/your-repo-name
-        YOUR_ECHOFLICKS_REPO_URL     → https://github.com/Aniruddha1110/your-repo-name
-        YOUR_STREAMLYTICS_REPO_URL   → https://github.com/Aniruddha1110/your-repo-name
-        YOUR_CUSTYCHUR_REPO_URL      → https://github.com/Aniruddha1110/your-repo-name
-        YOUR_NEXUSHR_REPO_URL        → https://github.com/Aniruddha1110/your-repo-name
+        https://github.com/Aniruddha1110/FitItUp.git       → https://github.com/Aniruddha1110/your-repo-name
+        https://github.com/Aniruddha1110/e-commerce.git         → https://github.com/Aniruddha1110/your-repo-name
+        https://github.com/Aniruddha1110/Movie_Recommendation_System.git     → https://github.com/Aniruddha1110/your-repo-name
+        https://github.com/Aniruddha1110/Streamlytics.git   → https://github.com/Aniruddha1110/your-repo-name
+        https://github.com/Aniruddha1110/CustyChurn.git      → https://github.com/Aniruddha1110/your-repo-name
+        https://github.com/Aniruddha1110/NexusHR.git        → https://github.com/Aniruddha1110/your-repo-name
 
      2. REPLACE SOCIAL PLACEHOLDERS:
         YOUR_LINKEDIN_URL_HERE    → your full LinkedIn profile URL
