@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hi+there%2C+I'm+Aniruddha+Dutta+%F0%9F%91%8B;AI+%7C+ML+%7C+Full+Stack+%7C+Cybersecurity;Building+Tomorrow's+Tech%2C+Today+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aniruddha%20Dutta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MCA%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aniruddha1110&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Aniruddha1110?label=Followers&style=for-the-badge&color=0e75b6&labelColor=1a1a2e" alt="Followers"/>
@@ -159,14 +157,6 @@ me.say_hi()
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aniruddha1110&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## Completed Projects
 
 <div align="center">
@@ -224,8 +214,8 @@ Building AI systems that actually do something meaningful
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+![footer](https://img.shields.io/badge/Thanks%20for%20visiting!%20Star%20my%20repos%20if%20you%20find%20them%20useful-00D9FF?style=for-the-badge&labelColor=0d1117)
 
-**Star my repos if you find them useful! Let's build the future together.**
+**Let's build the future together.**
 
 </div>
