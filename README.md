@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=160&lines=Hi+there%2C+I'm+Aniruddha+Dutta+%F0%9F%91%8B;AI+%7C+ML+%7C+Full+Stack+%7C+Cybersecurity;Building+Tomorrow's+Tech%2C+Today+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
-<br/>
-<br/>
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aniruddha1110&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
