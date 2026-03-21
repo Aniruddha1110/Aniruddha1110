@@ -4,7 +4,7 @@
 <!--                        ANIMATED HEADER                           -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&amp;color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&amp;height=120&lines=Hi+there%2C+I'm+Aniruddha+Dutta+%F0%9F%91%8B;AI+%7C+ML+%7C+Full+Stack+%7C+Cybersecurity;Building+Tomorrow's+Tech%2C+Today+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hi+there%2C+I'm+Aniruddha+Dutta+%F0%9F%91%8B;AI+%7C+ML+%7C+Full+Stack+%7C+Cybersecurity;Building+Tomorrow's+Tech%2C+Today+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Aniruddha%20Dutta&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=MCA%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Full%20Stack%20Developer&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
@@ -42,17 +42,17 @@ class AniruddhaDutta:
         ]
 
         self.soft_skills = [
-            "Self-aware and growth oriented 🌱",
-            "Detail focused and thorough 🔍",
-            "Committed to continuous improvement 📈",
-            "Team player 🤝",
-            "Leadership 🎯",
+            "Self-aware and growth oriented",
+            "Detail focused and thorough",
+            "Committed to continuous improvement",
+            "Team player",
+            "Leadership",
         ]
 
-        self.motto = "Code. Learn. Build. Repeat. 🔁"
+        self.motto = "Code. Learn. Build. Repeat."
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        print("Thanks for dropping by! Let's build something amazing together!")
 
 me = AniruddhaDutta()
 me.say_hi()
@@ -170,7 +170,7 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniruddha1110&amp;theme=tokyonight&amp;hide_border=true" width="70%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Aniruddha1110&amp;theme=tokyonight&amp;hide_border=true" width="70%" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -199,12 +199,12 @@ me.say_hi()
 
 | # | Project | Domain | Team | Repo |
 |---|---------|--------|------|------|
-| 01 | 💪 **Fit Verse** — Fitness Application | Full Stack | Solo | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/FitItUp.git) |
-| 02 | 🛍️ **Aureva** — Ecommerce Site | Full Stack | Solo | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/e-commerce.git) |
-| 03 | 🎬 **Echo Flicks** — Movie Recommendation System | AI / ML | Duo · [![Anuskaa](https://img.shields.io/badge/Anuskaa-100000?style=flat-square&logo=github)](https://github.com/Anuskaa2002) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/Movie_Recommendation_System.git) |
-| 04 | 📺 **Stream Lytics** — Netflix Dataset Analysis | Data / Power BI | Team · [![Arpan](https://img.shields.io/badge/Arpan-100000?style=flat-square&logo=github)](https://github.com/LegitScarf) [![Namrata](https://img.shields.io/badge/Namrata-100000?style=flat-square&logo=github)](https://github.com/namrata2476) [![Piyush](https://img.shields.io/badge/Piyush-100000?style=flat-square&logo=github)](https://github.com/Piyush-patra) [![Subhadip](https://img.shields.io/badge/Subhadip-100000?style=flat-square&logo=github)](https://github.com/SUBHA-coder) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/Streamlytics.git) |
-| 05 | 📉 **Custychur** — Customer Churn Analysis | Data / Power BI | Team · [![Arpan](https://img.shields.io/badge/Arpan-100000?style=flat-square&logo=github)](https://github.com/LegitScarf) [![Namrata](https://img.shields.io/badge/Namrata-100000?style=flat-square&logo=github)](https://github.com/namrata2476) [![Piyush](https://img.shields.io/badge/Piyush-100000?style=flat-square&logo=github)](https://github.com/Piyush-patra) [![Subhadip](https://img.shields.io/badge/Subhadip-100000?style=flat-square&logo=github)](https://github.com/SUBHA-coder) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/CustyChurn.git) |
-| 06 | 🏢 **NexusHR** — Enterprise Management System | Full Stack | Duo · [![Anuskaa](https://img.shields.io/badge/Anuskaa-100000?style=flat-square&logo=github)](https://github.com/Anuskaa2002) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/NexusHR.git) |
+| 01 | 💪 **Fit Verse** — Fitness Application | Full Stack | Solo | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/FitItUp) |
+| 02 | 🛍️ **Aureva** — Ecommerce Site | Full Stack | Solo | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/e-commerce) |
+| 03 | 🎬 **Echo Flicks** — Movie Recommendation System | AI / ML | Duo · [![Anuskaa](https://img.shields.io/badge/Anuskaa-100000?style=flat-square&logo=github)](https://github.com/Anuskaa2002) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/Movie_Recommendation_System) |
+| 04 | 📺 **Stream Lytics** — Netflix Dataset Analysis | Data / Power BI | Team · [![Arpan](https://img.shields.io/badge/Arpan-100000?style=flat-square&logo=github)](https://github.com/LegitScarf) [![Namrata](https://img.shields.io/badge/Namrata-100000?style=flat-square&logo=github)](https://github.com/namrata2476) [![Piyush](https://img.shields.io/badge/Piyush-100000?style=flat-square&logo=github)](https://github.com/Piyush-patra) [![Subhadip](https://img.shields.io/badge/Subhadip-100000?style=flat-square&logo=github)](https://github.com/SUBHA-coder) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/Streamlytics) |
+| 05 | 📉 **Custychur** — Customer Churn Analysis | Data / Power BI | Team · [![Arpan](https://img.shields.io/badge/Arpan-100000?style=flat-square&logo=github)](https://github.com/LegitScarf) [![Namrata](https://img.shields.io/badge/Namrata-100000?style=flat-square&logo=github)](https://github.com/namrata2476) [![Piyush](https://img.shields.io/badge/Piyush-100000?style=flat-square&logo=github)](https://github.com/Piyush-patra) [![Subhadip](https://img.shields.io/badge/Subhadip-100000?style=flat-square&logo=github)](https://github.com/SUBHA-coder) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/CustyChurn) |
+| 06 | 🏢 **NexusHR** — Enterprise Management System | Full Stack | Duo · [![Anuskaa](https://img.shields.io/badge/Anuskaa-100000?style=flat-square&logo=github)](https://github.com/Anuskaa2002) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/NexusHR) |
 
 </div>
 
@@ -215,37 +215,6 @@ me.say_hi()
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 My Contributions
-
-<!--
-  SNAKE SETUP (one-time):
-  1. Create .github/workflows/snake.yml in this repo with:
-
-     name: Generate Snake Animation
-     on:
-       schedule:
-         - cron: "0 */12 * * *"
-       workflow_dispatch:
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk/svg-only@v3
-             with:
-               github_user_name: Aniruddha1110
-               outputs: |
-                 dist/github-snake.svg
-                 dist/github-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v3
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  2. Go to Actions tab → "Generate Snake Animation" → Run workflow
-  3. Snake will appear here once the output branch is created.
-  Delete this comment after setup is done.
--->
 
 <div align="center">
   <picture>
@@ -283,12 +252,12 @@ me.say_hi()
 <div align="center">
 
 ```
-🧠  I think in algorithms and dream in Python
-🌙  My best code happens after midnight
-☕  Coffee + Code = My life equation
-🔍  I debug not just code, but problems in the real world
-🤖  Building AI systems that actually do something meaningful
-💡  "The best way to predict the future is to build it." — Alan Kay
+I think in algorithms and dream in Python
+My best code happens after midnight
+Coffee + Code = My life equation
+I debug not just code, but problems in the real world
+Building AI systems that actually do something meaningful
+"The best way to predict the future is to build it." — Alan Kay
 ```
 
 </div>
@@ -302,45 +271,3 @@ me.say_hi()
 **⭐ Star my repos if you find them useful! Let's build the future together. ⭐**
 
 </div>
-
-<!-- ════════════════════════════════════════════════════════════════════
-     SETUP NOTES (delete this section after setup):
-
-     1. REPLACE REPO PLACEHOLDERS in the Projects table:
-        https://github.com/Aniruddha1110/FitItUp.git       → https://github.com/Aniruddha1110/your-repo-name
-        https://github.com/Aniruddha1110/e-commerce.git         → https://github.com/Aniruddha1110/your-repo-name
-        https://github.com/Aniruddha1110/Movie_Recommendation_System.git     → https://github.com/Aniruddha1110/your-repo-name
-        https://github.com/Aniruddha1110/Streamlytics.git   → https://github.com/Aniruddha1110/your-repo-name
-        https://github.com/Aniruddha1110/CustyChurn.git      → https://github.com/Aniruddha1110/your-repo-name
-        https://github.com/Aniruddha1110/NexusHR.git        → https://github.com/Aniruddha1110/your-repo-name
-
-     2. REPLACE SOCIAL PLACEHOLDERS:
-        YOUR_LINKEDIN_URL_HERE    → your full LinkedIn profile URL
-        YOUR_INSTAGRAM_URL_HERE   → your Instagram profile URL
-        YOUR_EMAIL_HERE           → your email address
-
-     3. SNAKE ANIMATION — Add this GitHub Action to your repo:
-        File: .github/workflows/snake.yml
-        ─────────────────────────────────────────────
-        name: Generate Snake Animation
-        on:
-          schedule: [{ cron: "0 */12 * * *" }]
-          workflow_dispatch:
-        jobs:
-          generate:
-            runs-on: ubuntu-latest
-            steps:
-              - uses: Platane/snk/svg-only@v3
-                with:
-                  github_user_name: Aniruddha1110
-                  outputs: |
-                    dist/github-snake.svg
-                    dist/github-snake-dark.svg?palette=github-dark
-              - uses: crazy-max/ghaction-github-pages@v3
-                with:
-                  target_branch: output
-                  build_dir: dist
-                env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        ─────────────────────────────────────────────
-════════════════════════════════════════════════════════════════════ -->
