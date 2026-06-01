@@ -171,6 +171,7 @@ me.say_hi()
 | 06 | **NexusHR** — Enterprise Management System | Full Stack | Duo · [![Anuskaa](https://img.shields.io/badge/Anuskaa-100000?style=flat-square&logo=github)](https://github.com/Anuskaa2002) | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/NexusHR) |
 | 07 | **EventSphere** — Multirole Event Management Platform | Full Stack | Team · [![Anuskaa](https://img.shields.io/badge/Anuskaa-100000?style=flat-square&logo=github)](https://github.com/Anuskaa2002) [![Abhishek](https://img.shields.io/badge/Abhishek-100000?style=flat-square&logo=github)](https://github.com/Abhishek-bit-hub)| [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/EventNest) |
 | 08 | **Charli** — Desktop Chatbot AI Assistant | AI / ML | Solo | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/Charli) |
+| 09 | **Subs-Track** — A Subscription Tracker | FullStack | Solo | [![Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/Aniruddha1110/Subs-Track) |
 
 </div>
 
