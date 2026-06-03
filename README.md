@@ -19,7 +19,7 @@
 class AniruddhaDutta:
     def __init__(self):
         self.name        = "Aniruddha Dutta"
-        self.degree      = "MCA Student"
+        self.degree      = "MCA Graduate"
         self.username    = "Aniruddha1110"
         self.location    = "India"
 
